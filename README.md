@@ -1,3 +1,16 @@
+# UTS PEMROGRAMAN MOBILE
+NAMA: Putri Salsanabilah 
+
+NIM: 152022025 
+
+Program Studi: Informatika 
+
+Dosen: Galih Ashari R., S.Si., MT
+
+# Tugas Proyek (Jawaban Soal No. 1)
+Proyek ini merupakan tugas Ujian Tengah Semester (UTS) untuk mata kuliah Pemrograman Mobile di ITENAS. Aplikasi ini dibuat dengan tujuan untuk mengimplementasikan SubCPMK 2, yaitu agar mahasiswa mampu menerapkan berbagai jenis layout dan widget yang umum digunakan dalam pengembangan antarmuka pengguna (User Interface/UI) serta pengalaman pengguna (User Experience/UX) pada aplikasi mobile.
+
+Aplikasi dibangun menggunakan Flutter dengan navigasi utama berupa Bottom Navigation Bar (Konsep Fragment/Page) yang mengarahkan ke 6 menu utama: Dashboard, Biodata, Kontak, Kalkulator, Cuaca, dan Berita.
 # Raritycaw
 Raritycaw adalah aplikasi mobile sederhana untuk mahasiswa yang menggabungkan beberapa fitur dasar dalam satu aplikasi: pengelolaan biodata, daftar kontak, kalkulator, informasi cuaca, dan berita kampus/teknologi.
 Aplikasi ini menonjolkan tampilan yang bersih, modern, dan konsisten, dengan navigasi bawah (bottom navigation bar) sehingga pengguna mudah berpindah antar-halaman.
